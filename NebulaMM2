@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gszxx/nebula-source/refs/heads/main/NebulaMM2.lua"))()
